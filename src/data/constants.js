@@ -2,7 +2,6 @@ export const Bio = {
   name: "Saurabh Kumar Kashinwar",
   roles: [
     "Full Stack Developer",
-    "UI/UX Designer",
     "Programmer",
   ],
   description:
@@ -158,7 +157,7 @@ export const education = [
     school: "Milton Public School, Agra",
     date: "Apr 2020 - July 2021",
     grade: "94.4%",
-    desc: "I completed my class 12 high school education at Milton Public School, Agra",
+    desc: "I completed my class 12 intermediate education at Milton Public School in 2021, Agra",
     degree: "CBSE(XII)",
   },
   {
@@ -167,7 +166,7 @@ export const education = [
     school: "Milton Public School, Agra",
     date: "Apr 2018 - Apr 2019",
     grade: "93.4%",
-    desc: "I completed my class 12 high school education at Milton Public School, Agra",
+    desc: "I completed my class 10 high school education at Milton Public School in 2019, Agra",
     degree: "CBSE(X)",
   },
 ];
