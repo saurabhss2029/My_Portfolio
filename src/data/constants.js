@@ -180,7 +180,7 @@ export const projects = [
     description:
       "AR_SHOPSY is an augmented reality-based shopping platform that enhances the online retail experience by allowing users to visualize products in real-world environments. Built using modern web and AR technologies, it offers interactive 3D product viewing, intuitive UI, and seamless integration, aiming to revolutionize how users engage with e-commerce platforms.",
     image:
-      "https://raw.githubusercontent.com/saurabhss2029/AR_SHOPSY/main/assets/ar_shopsy_1.png",
+      "https://raw.githubusercontent.com/saurabhss2029/My_Portfolio/src/images/ar_shopsy_1.png",
     tags: ["React JS", "React Router DOM", "@google/model-viewer", "GSAP", "Framer Motion", "FontAwesome", "qrcode.react", "SheryJS", "React Lazyload"
 ],
     category: "web app",
