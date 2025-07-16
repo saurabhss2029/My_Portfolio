@@ -175,30 +175,17 @@ export const projects = [
   
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "AR SHOPSY",
+    date: "Nov 2024 - Dec 2024",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "AR_SHOPSY is an augmented reality-based shopping platform that enhances the online retail experience by allowing users to visualize products in real-world environments. Built using modern web and AR technologies, it offers interactive 3D product viewing, intuitive UI, and seamless integration, aiming to revolutionize how users engage with e-commerce platforms.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "https://raw.githubusercontent.com/saurabhss2029/AR_SHOPSY/main/assets/ar_shopsy_1.png",
+    tags: ["React JS", "React Router DOM", "@google/model-viewer", "GSAP", "Framer Motion", "FontAwesome", "qrcode.react", "SheryJS", "React Lazyload"
+],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    github: "https://github.com/saurabhss2029/AR_SHOPSY",
+    webapp: "https://ar-shopsy-brown.vercel.app/",
   },
   {
     id: 10,
