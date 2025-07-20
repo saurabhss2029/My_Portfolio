@@ -196,7 +196,7 @@ export const projects = [
     description:
       "Enable real-time messaging with typing indicators, reactions, group video calls, screen sharing, and call recording for seamless communication.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://raw.githubusercontent.com/saurabhss2029/My_Portfolio/main/src/data/steamify.png",
     tags: ["React Native", "JavaScript", "Axios"],
     category: "web app",
     github: "https://github.com/saurabhss2029/Streamify",
