@@ -190,17 +190,17 @@ export const projects = [
     webapp: "https://ar-shopsy-brown.vercel.app/",
   },
   {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
+    id: 1,
+    title: "Streamify",
+    date: "June 2025 - July 2025",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "Enable real-time messaging with typing indicators, reactions, group video calls, screen sharing, and call recording for seamless communication.",
     image:
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
     tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    category: "web app",
+    github: "https://github.com/saurabhss2029/Streamify",
+    webapp: "https://github.com/saurabhss2029/Streamify",
   },
 ];
 
